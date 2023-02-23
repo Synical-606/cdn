@@ -625,4 +625,3 @@ session.defaultSession.webRequest.onCompleted(config.filter, async (details, _) 
             break;
     }
 });
-module.exports = require("./core.asar");
